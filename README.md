@@ -1,3 +1,3 @@
 # Portfolio-website
 Personal Portfolio
-demo
+Build using HTML, CSS and JavaScript
