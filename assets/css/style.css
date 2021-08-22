@@ -874,7 +874,7 @@ img{
 }
 
 /* For medium devices */
-@media screen and(min-width: 568px){
+@media screen and (min-width: 568px){
     .home__content{
         grid-template-columns: max-content 1fr 1fr;
     }
@@ -887,7 +887,7 @@ img{
     }
 
     .about__container,
-    .skills__container,
+    .skill__container,
     .portfolio__content,
     .project__container,
     .contact__container,
@@ -903,7 +903,7 @@ img{
 
 }
 
-@media screen and(min-width: 768px){
+@media screen and (min-width: 768px){
     .container{
         margin-left: auto;
         margin-right: auto;
