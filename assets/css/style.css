@@ -330,6 +330,10 @@ img{
     margin-bottom: var(--mb-2);
 }
 
+.home__description__span{
+    color: var(--first-color);
+}
+
 .home__scroll{
     display: none;
 }
@@ -404,6 +408,10 @@ img{
     margin-bottom: var(--mb-2-5);
 }
 
+.about__description span {
+    color: var(--first-color);
+}
+
 .about__info{
     display: flex;
     justify-content: space-evenly;
@@ -424,6 +432,7 @@ img{
 .about__info-name{
     display: block;
     text-align: center;
+    margin-right: 20px;
 }
 
 .about__buttons{
